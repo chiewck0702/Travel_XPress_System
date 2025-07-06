@@ -4,8 +4,11 @@ C# Winform
 Group Leader: Chong Wan Xian Casey D032310439 (S2G2)
 
 Group Member: Chiew Chin Kuan D032310456 (S1G1)
+
               Sia Xin Wan D032310149 (S1G1)
+              
               A'isyah Insyirah binti Mohd Nizam D032310403 (S1G1)
+              
               Teoh Hui Yu D032310347 (S1G1)
 
 Change connection String: 
