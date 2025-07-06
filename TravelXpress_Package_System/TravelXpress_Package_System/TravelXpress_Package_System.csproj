@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TravelXpress_Package_System</RootNamespace>
+    <AssemblyName>TravelXpress_Package_System</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccommodationAvailabilityPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccommodationAvailabilityPage.Designer.cs">
+      <DependentUpon>AccommodationAvailabilityPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccommodationBookingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccommodationBookingPage.Designer.cs">
+      <DependentUpon>AccommodationBookingPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccommodationDetailsPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccommodationDetailsPage.Designer.cs">
+      <DependentUpon>AccommodationDetailsPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccommodationReceiptPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccommodationReceiptPage.Designer.cs">
+      <DependentUpon>AccommodationReceiptPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminAccomodationPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminAccomodationPage.Designer.cs">
+      <DependentUpon>AdminAccomodationPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminBookingStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminBookingStatus.Designer.cs">
+      <DependentUpon>AdminBookingStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLoginPage.Designer.cs">
+      <DependentUpon>AdminLoginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminMainPage.Designer.cs">
+      <DependentUpon>AdminMainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminManagementPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminManagementPage.Designer.cs">
+      <DependentUpon>AdminManagementPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminTicketPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminTicketPage.Designer.cs">
+      <DependentUpon>AdminTicketPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPackagePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPackagePage.Designer.cs">
+      <DependentUpon>AdminPackagePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckoutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckoutForm.Designer.cs">
+      <DependentUpon>CheckoutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChekourPaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChekourPaymentForm.Designer.cs">
+      <DependentUpon>ChekourPaymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerMainPage.Designer.cs">
+      <DependentUpon>CustomerMainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HotelCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HotelCard.Designer.cs">
+      <DependentUpon>HotelCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Module\AccommodationCheckout.cs" />
+    <Compile Include="Module\ConnectionClass.cs" />
+    <Compile Include="Module\CustomerDetails.cs" />
+    <Compile Include="Module\CustomerMemberDetails.cs" />
+    <Compile Include="Module\HotelList.cs" />
+    <Compile Include="Module\PackageCheckout.cs" />
+    <Compile Include="Module\RoomDetails.cs" />
+    <Compile Include="Module\SelectedPackageRoom.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RoomControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RoomControl.Designer.cs">
+      <DependentUpon>RoomControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Module\SeatDetail.cs" />
+    <Compile Include="Module\TemporaryBusDetailsStore.cs" />
+    <Compile Include="TicketBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketBooking.Designer.cs">
+      <DependentUpon>TicketBooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicketCheckout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketCheckout.Designer.cs">
+      <DependentUpon>TicketCheckout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicketForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketForm.Designer.cs">
+      <DependentUpon>TicketForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicketPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketPayment.Designer.cs">
+      <DependentUpon>TicketPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicketReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketReceipt.Designer.cs">
+      <DependentUpon>TicketReceipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TicketSeat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TicketSeat.Designer.cs">
+      <DependentUpon>TicketSeat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TourPackageDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TourPackageDetailsForm.Designer.cs">
+      <DependentUpon>TourPackageDetailsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TourPackageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TourPackageForm.Designer.cs">
+      <DependentUpon>TourPackageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TravelXpressDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TravelXpressDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccommodationAvailabilityPage.resx">
+      <DependentUpon>AccommodationAvailabilityPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccommodationBookingPage.resx">
+      <DependentUpon>AccommodationBookingPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccommodationDetailsPage.resx">
+      <DependentUpon>AccommodationDetailsPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccommodationReceiptPage.resx">
+      <DependentUpon>AccommodationReceiptPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminAccomodationPage.resx">
+      <DependentUpon>AdminAccomodationPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminBookingStatus.resx">
+      <DependentUpon>AdminBookingStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLoginPage.resx">
+      <DependentUpon>AdminLoginPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminMainPage.resx">
+      <DependentUpon>AdminMainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminManagementPage.resx">
+      <DependentUpon>AdminManagementPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPackagePage.resx">
+      <DependentUpon>AdminPackagePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminTicketPage.resx">
+      <DependentUpon>AdminTicketPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckoutForm.resx">
+      <DependentUpon>CheckoutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChekourPaymentForm.resx">
+      <DependentUpon>ChekourPaymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerMainPage.resx">
+      <DependentUpon>CustomerMainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HotelCard.resx">
+      <DependentUpon>HotelCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RoomControl.resx">
+      <DependentUpon>RoomControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicketBooking.resx">
+      <DependentUpon>TicketBooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicketCheckout.resx">
+      <DependentUpon>TicketCheckout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicketForm.resx">
+      <DependentUpon>TicketForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicketPayment.resx">
+      <DependentUpon>TicketPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicketReceipt.resx">
+      <DependentUpon>TicketReceipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TicketSeat.resx">
+      <DependentUpon>TicketSeat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TourPackageDetailsForm.resx">
+      <DependentUpon>TourPackageDetailsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TourPackageForm.resx">
+      <DependentUpon>TourPackageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TravelXpressDataSet.xsc">
+      <DependentUpon>TravelXpressDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TravelXpressDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TravelXpressDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="TravelXpressDataSet.xss">
+      <DependentUpon>TravelXpressDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Image\AFamosa.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\BentongFarm.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\bus picture.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\bus picture2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\Bus\44Seats.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\Bus\mayangLogo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\Bus\melorLogo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\Bus\noImageUploaded.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\Bus\TransnationalLogo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\Bus\27Seats.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\catsHotel.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\ChewJetty.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\ColmarTropicale.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\CrocodileFarm.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\Family room.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\ferryMelaka.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\GentingHighland.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\GentingSkyWorlds.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\HappyBeeFarm.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\itinerary\ItineraryGenting.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\itinerary\ItineraryJohor.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\itinerary\ItineraryMelaka.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\itinerary\ItineraryPahang.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\itinerary\ItineraryPenang.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\JalanTanHiokNee.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\jonker.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\KekLokSi.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\King bed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\legoland.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\logoProject.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\logoProject.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\luna hotel.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\MAS_plane.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\Payment\Card.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\Payment\FPX.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\Payment\PaymentMethod.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\Payment\tng.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\Payment\tng.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\penangBridge.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\PenangHill.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\qr.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\RapidRidePahang.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\redHouse.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\Single bed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\SkyAvenueMall.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\SultanAbuBakarMosque.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\TamanNegara.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Image\tropicanaHotel.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TravelDatabase.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TravelDatabase_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>TravelDatabase.mdf</DependentUpon>
+    </Content>
+    <Content Include="TravelXpressDBMS.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TravelXpressDBMS_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>TravelXpressDBMS.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

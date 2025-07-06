@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\customermainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\customermainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\module\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\module\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|c:\\users\\chiew\\downloads\\travel_package_system_reallast\\travel_package_system\\travelxpress_package_system\\travelxpress_package_system\\ticketreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\ticketreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\ticketreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\ticketreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\ticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\ticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\adminmanagementpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\adminmanagementpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\adminmanagementpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\adminmanagementpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\ticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\ticketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\hotelcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\hotelcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\chekourpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\chekourpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\tourpackagedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\tourpackagedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\chekourpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\chekourpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\checkoutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\ticketpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\ticketpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TicketPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:TravelXpress_Package_System\\TicketPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\tourpackageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\tourpackageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\tourpackageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\tourpackageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\tourpackagedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\tourpackagedetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\tourpackageform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\tourpackageform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\travelxpress_package_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:travelxpress_package_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\Module\\PackageCheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:TravelXpress_Package_System\\Module\\PackageCheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\AccommodationDetailsPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:TravelXpress_Package_System\\AccommodationDetailsPage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\CheckoutForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06C27ED-CDA7-48B6-9305-FFE9E720A90F}|TravelXpress_Package_System\\TravelXpress_Package_System.csproj|solutionrelative:TravelXpress_Package_System\\CheckoutForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketReceipt.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TicketReceipt.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\TicketReceipt.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TicketReceipt.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\TicketReceipt.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv1cAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:10:21.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketReceipt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TicketReceipt.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\TicketReceipt.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TicketReceipt.cs [Design]",
+              "RelativeToolTip": "TravelXpress_Package_System\\TicketReceipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:10:12.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminManagementPage.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\AdminManagementPage.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\AdminManagementPage.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\AdminManagementPage.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\AdminManagementPage.cs",
+              "ViewState": "AgIAAEkCAAAAAAAAAAAmwFcCAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T06:51:44.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminManagementPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\AdminManagementPage.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\AdminManagementPage.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\AdminManagementPage.cs [Design]",
+              "RelativeToolTip": "TravelXpress_Package_System\\AdminManagementPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T06:51:43.337Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HotelCard.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\HotelCard.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\HotelCard.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\HotelCard.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\HotelCard.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAnwC4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:31:06.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectionClass.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\Module\\ConnectionClass.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\Module\\ConnectionClass.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\Module\\ConnectionClass.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\Module\\ConnectionClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:17:50.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketForm.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TicketForm.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\TicketForm.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TicketForm.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\TicketForm.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAIwI8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:04:42.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TicketForm.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\TicketForm.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TicketForm.cs [Design]",
+              "RelativeToolTip": "TravelXpress_Package_System\\TicketForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:04:38.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TourPackageForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TourPackageForm.Designer.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\TourPackageForm.Designer.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TourPackageForm.Designer.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\TourPackageForm.Designer.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAmwOQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:52:59.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerMainPage.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\CustomerMainPage.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\CustomerMainPage.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\CustomerMainPage.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\CustomerMainPage.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAywBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:18:43.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PackageCheckout.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\Module\\PackageCheckout.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\Module\\PackageCheckout.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\Module\\PackageCheckout.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\Module\\PackageCheckout.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:04:58.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TicketPayment.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TicketPayment.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\TicketPayment.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TicketPayment.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\TicketPayment.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAIwIEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:42:28.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CheckoutForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\CheckoutForm.Designer.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\CheckoutForm.Designer.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\CheckoutForm.Designer.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\CheckoutForm.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAABRwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:33:29.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccommodationDetailsPage.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\AccommodationDetailsPage.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\AccommodationDetailsPage.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\AccommodationDetailsPage.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\AccommodationDetailsPage.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:08:56.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TicketPayment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TicketPayment.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\TicketPayment.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TicketPayment.cs [Design]",
+              "RelativeToolTip": "TravelXpress_Package_System\\TicketPayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:01:09.787Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TourPackageForm.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TourPackageForm.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\TourPackageForm.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TourPackageForm.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\TourPackageForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:46:08.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TourPackageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TourPackageForm.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\TourPackageForm.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TourPackageForm.cs [Design]",
+              "RelativeToolTip": "TravelXpress_Package_System\\TourPackageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:27:34.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TourPackageDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TourPackageDetailsForm.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\TourPackageDetailsForm.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TourPackageDetailsForm.cs [Design]",
+              "RelativeToolTip": "TravelXpress_Package_System\\TourPackageDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:27:33.396Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TourPackageDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TourPackageDetailsForm.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\TourPackageDetailsForm.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\TourPackageDetailsForm.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\TourPackageDetailsForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:35:39.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChekourPaymentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\ChekourPaymentForm.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\ChekourPaymentForm.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\ChekourPaymentForm.cs [Design]",
+              "RelativeToolTip": "TravelXpress_Package_System\\ChekourPaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:27:19.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChekourPaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\ChekourPaymentForm.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\ChekourPaymentForm.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\ChekourPaymentForm.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\ChekourPaymentForm.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAcwGoBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:04:45.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CheckoutForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\CheckoutForm.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\CheckoutForm.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\CheckoutForm.cs [Design]",
+              "RelativeToolTip": "TravelXpress_Package_System\\CheckoutForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:27:17.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckoutForm.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\CheckoutForm.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\CheckoutForm.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\CheckoutForm.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\CheckoutForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vxgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:00:24.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\Form1.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\Form1.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\Form1.cs [Design]",
+              "RelativeToolTip": "TravelXpress_Package_System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:27:14.357Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\Form1.cs",
+              "RelativeDocumentMoniker": "TravelXpress_Package_System\\Form1.cs",
+              "ToolTip": "C:\\Users\\chiew\\Downloads\\Travel_Package_System_RealLast\\Travel_Package_System\\TravelXpress_Package_System\\TravelXpress_Package_System\\Form1.cs",
+              "RelativeToolTip": "TravelXpress_Package_System\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:06:03.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
