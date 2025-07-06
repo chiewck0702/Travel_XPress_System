@@ -11,8 +11,8 @@ Group Member:
 
 
 Change connection String: 
-1. Go to "Module" folder
-2. Go to "ConnectionClass.cs" file
-3. Change the connectionString variable value to your own connection String
+1. Go to "Module" folder.
+2. Go to "ConnectionClass.cs" file.
+3. Change the connectionString variable value to your own connection String.
 
 Old git link: https://github.com/wanxian23/Travel_Package_System.git
