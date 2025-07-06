@@ -9,6 +9,7 @@ Group Member:
 3. A'isyah Insyirah binti Mohd Nizam D032310403 (S1G1)
 4. Teoh Hui Yu D032310347 (S1G1)
 
+
 Change connection String: 
 1. Go to "Module" folder
 2. Go to "ConnectionClass.cs" file
